@@ -1,0 +1,88 @@
+1) In how many trips, buses departed with between 25% and 75% of their full capacity, in terms of sold tickets, in the years 2016 and 2017?
+
+
+2) List the top 10 trips that generated the most revenue (SUM of final_price) in the first three months during weekdays (Monday to Friday) in the year 2016?
+
+
+3) Which routes of trips generated the top 10% most and the top 10% least revenue (SUM of final_price) in 2017?
+
+
+
+4) List the amount of money discounted of the total revenue (SUM of final_price) and the number of tickets that received a discount in the year 2017 to the customers that were either below 23 year old or above 65 year old at the moment they purchase the ticket
+
+
+5) Estimate the monthly average ratio of sold tickets of registered passengers over not registered passengers in the year 2017 and only for trips departing after noon on the weekends (Saturday and Sunday).
+
+
+6) What are the most demanded routes in terms of number of sold tickets, for routes departing between 2:00 pm and 8:00 pm for each weekday in the months of June, July and August in the year 2016?
+
+
+7) For routes departing from Tampa to any destination, for each weekday, what is the most demanded hour in terms of generated revenue (SUM of final_price)?
+
+
+
+8) Knowing that at least 10% of the capacity of the full passenger capacity of the buses, in relation to the number of sold tickets, is necessary to justify the departure of a bus in a trip. The managers would 
+like to know which trips should not have departed either the years 2016 or 2017?
+
+
+
+
+9) Which weeks (from 1 to 52) of the year 2016 sold between 10% and 30% of the full capacity of tickets in the weekends? 
+
+
+
+
+10) List the five employees that have sold the most tickets without a discount in the last three months of the year 2017 and the five employees that have generated the most revenue (SUM of final_price) selling tickets with a discount for weekdays in the year 2017?
+
+		
+
+
+
+11) What is the most demanded cabin type in terms of sold tickets without a discount in the first three months of the year 2017 for registered customers?
+
+
+
+
+12) What is the purchase location in which most tickets for non-registered customers were sold for weekdays only in the first two quarters of the year 2016?
+
+
+
+
+
+13) From all the trips in the last two quarters of the year 2017, which trips departed with more tickets sold to registered customers than to non-registered customers?
+
+
+
+
+
+14) What is the location type with most sold tickets to registered customers in the first two months of the years 2016 and 2017?
+
+
+
+
+
+15) What is the hour of the day in each weekday (excluding weekends) where the most tickets departing after noon were sold in 2017 to non-registered customers?
+
+
+
+16) What are the three discounts that were applied the most to non -registered customers in even months (February, April, etc.) in the year 2017 and what is the amount of revenue discounted for these three discounts?
+
+
+
+17) What is the hour of the day in which most tickets are purchased by non-registered customers and which are not finally boarded by the customer (missed trip)?
+
+
+
+
+
+
+18) What are the three registered customers that bought the most tickets departing after noon in the first four months of the year 2016 and what is the revenue generated (SUM of final_price) for these customers?
+
+
+
+19) What are the top 3 routes on weekends (Saturday, Sunday) that registered the highest number of delayed minutes in the year 2017?
+
+
+20) What are the top 3 routes in the first half of the year 2017 that registered the lowest number of missed trips by registered customers?
+
+
